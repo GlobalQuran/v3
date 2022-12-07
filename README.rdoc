@@ -1,0 +1,3 @@
+clone from https://github.com/GlobalQuran/site for v3 version
+
+using the static html version for github pages
