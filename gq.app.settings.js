@@ -49,7 +49,7 @@ gq.config = {
 	 * 'page'; 		- url page by page navigation
 	 * 'ayah'; 		- url ayah by ayah navigation
 	 */
-	urlBy: 'ayah',
+	urlBy: 'page',
 	
 	/**
 	 * googleAnalyticsID google analytics id for counting visitors on the site and the event they do
