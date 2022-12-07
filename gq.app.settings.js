@@ -43,7 +43,7 @@ gq.config = {
 	 * '/'; 		- adds / slash before the page values
 	 * '?page=';	- adds ?page= before the page values - useful, if htaccess is not allowed on server
 	 */
-	urlHTML5: '/',
+	urlHTML5: false,
 	
 	/**
 	 * 'page'; 		- url page by page navigation
